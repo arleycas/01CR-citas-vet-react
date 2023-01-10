@@ -1,3 +1,6 @@
+Primer aplicativo de React - La Guía Completa: Hooks Context Redux MERN +15 Apps
+PROYECTO: Administrador de pacientes en Vite, Tailwind CSS y LocalStorage
+
 Aplicacion sencilla de citas para veterinaria
 
 - Primer proyecto
